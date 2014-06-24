@@ -7,8 +7,13 @@ Sandbox2 is built by people like you! Please [join us](https://github.com/jerear
 etc. etc
 
 ## issue template ##
-*Description:* 
 
-*Workaround:* 
+Please paste the following template when opening new issues!
+---
+**Description:** 
+
+**Steps to recreate:** 
+
+**Workaround:** 
 
 ---
