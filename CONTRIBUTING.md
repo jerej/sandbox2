@@ -9,6 +9,7 @@ etc. etc
 ## issue template ##
 
 Please paste the following template when opening new issues!
+
 ---
 **Description:** 
 
