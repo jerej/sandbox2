@@ -20,5 +20,6 @@ if __name__ == '__main__':
     #pp.pprint(response[0])
     pprint.pprint(response[0])
 
+    # New comment
 
     print "The switch's system Management description is '{0}'".format(response[0]["interfaceDescriptions"]["Management1"]["description"])
